@@ -24,3 +24,4 @@ function distanceFromHqInBlocks(someValue) {
       return 'cannot travel that far';
     }
   }
+  //
